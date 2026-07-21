@@ -23,7 +23,7 @@ I've been working in and around the TYPO3 ecosystem for 25+ years — as an agen
 As President of the TYPO3 Association, I work on:
 - Board & bylaws reform, RFC process, and long-term project governance
 - EU regulatory readiness (CRA, NIS2) for the TYPO3 project and its ecosystem
-- Security coordination (Alpha-Omega) and contributor sustainability
+- Security coordination and contributor sustainability
 
 ### 📫 Reach me
 
