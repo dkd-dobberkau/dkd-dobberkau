@@ -4,7 +4,6 @@ Geschäftsführer at [dkd Internet Service GmbH](https://www.dkd.de) (Frankfurt 
 
 I've been working in and around the TYPO3 ecosystem for 25+ years — as an agency lead, an extension maintainer, and now in TYPO3 governance. These days most of my open source work sits at the intersection of **CMS infrastructure, search, AI tooling, and supply-chain trust.**
 
----
 
 ### 🔭 What I'm working on
 
@@ -31,6 +30,5 @@ As President of the TYPO3 Association, I work on:
 - Website: [dkd.de](https://www.dkd.de)
 - TYPO3 Association: [typo3.org/association](https://typo3.org/association)
 
----
 
 <sub>25+ years TYPO3 · Solr · Open Source Governance · Frankfurt am Main</sub>
