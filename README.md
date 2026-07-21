@@ -29,6 +29,7 @@ As President of the TYPO3 Association, I work on:
 
 - Website: [dkd.de](https://www.dkd.de)
 - TYPO3 Association: [typo3.org/association](https://typo3.org/association)
+- LinkedIn [Profile](https://www.linkedin.com/in/olivierdobberkau/)
 
 
 <sub>25+ years TYPO3 · Solr · Open Source Governance · Frankfurt am Main</sub>
