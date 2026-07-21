@@ -1,8 +1,8 @@
 # Hi, I'm Olivier Dobberkau 👋
 
-Geschäftsführer at [dkd Internet Service GmbH](https://www.dkd.de) (Frankfurt am Main) · President of the [TYPO3 Association](https://typo3.org/association)
+CEO (R&D) at [dkd Internet Service GmbH](https://www.dkd.de) (Frankfurt am Main) · President of the [TYPO3 Association](https://typo3.org/association)
 
-I've been working in and around the TYPO3 ecosystem for 25+ years — as an agency lead, an extension maintainer, and now in TYPO3 governance. These days most of my open source work sits at the intersection of **CMS infrastructure, search, AI tooling, and supply-chain trust.**
+I've been working in and around the TYPO3 ecosystem for 25+ years — as an agency lead, an extension maintainer, and in TYPO3 governance. These days most of my open source work sits at the intersection of **CMS infrastructure, search, AI tooling, and supply-chain trust.**
 
 
 ### 🔭 What I'm working on
